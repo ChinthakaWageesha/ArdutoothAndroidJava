@@ -1,0 +1,28 @@
+<resources>
+  <string name="app_name">ArditoothAndroid</string>
+
+  <string name="label_connect_bluetooth">Connect to Bluetooth</string>
+  <string name="label_identify_desc">Mapped IR signal string from the device</string>
+  <string name="label_no_letter">No identified character found.</string>
+
+  <string name="error_occurred_disconnecting">An error occurred while closing connection</string>
+  <string name="cannot_disconnect">Cannot disconnect because there\'s no connection established
+  </string>
+  <string name="bluetooth_off">Bluetooth is off</string>
+  <string name="turn_on_bluetooth_message">Turn on bluetooth in settings and connect to another
+    device.
+  </string>
+  <string name="open_settings">Open settings</string>
+  <string name="bluetooth_not_connected">Bluetooth is not connected</string>
+  <string name="bluetooth_not_connected_message">Open settings to connect via bluetooth with another
+    device.
+  </string>
+  <string name="bluetooth_not_supported">Bluetooth not supported</string>
+  <string name="bluetooth_not_supported_message">This device doesn\'t support bluetooth. The
+    requested operation cannot be done.
+  </string>
+  <string name="already_connected">Already connected with\u0020</string>
+  <string name="connected_to">Connected to\u0020</string>
+  <string name="disconnected_from">Disconnected from\u0020</string>
+  <string name="cancel">Cancel</string>
+</resources>
